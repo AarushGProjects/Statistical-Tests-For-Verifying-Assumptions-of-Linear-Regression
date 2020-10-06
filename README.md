@@ -29,3 +29,12 @@ PTRATIO: Pupil-teacher ratio by town
 LSTAT % lower status of the population
 
 MEDV Median value of owner-occupied homes in $1000's
+
+# Assumptions:
+
+1. Linear Relationship: Scatter plot between target and response
+2. Zero mean of residuals 
+3. Homoscedasticity Residual plot with Goldfeld Quandt test
+4. No Multicollinearity: Heatmap with Variance inflation factor
+5. Normal Residual distribution: QQ plot with Shapiro Wilk and Anderson Darling test
+6. No Autocorrelation: ACF and PACF with Durbin Watson test
