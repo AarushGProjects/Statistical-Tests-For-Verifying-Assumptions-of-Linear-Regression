@@ -40,4 +40,4 @@ MEDV Median value of owner-occupied homes in $1000's
 6. No Autocorrelation: ACF and PACF with Durbin Watson test
 
 # View Notebook Here:
-https://nbviewer.jupyter.org/github/AarushGProjects/Statistics-For-Verifying-Assumptions-of-Linear-Regression/blob/main/Linear_Regression_Assumptions_code.ipynb
+https://nbviewer.jupyter.org/github/AarushGProjects/Statistics-For-Verifying-Assumptions-of-Linear-Regression/blob/main/Assumptions_Linear_Regression.ipynb
