@@ -39,3 +39,5 @@ MEDV Median value of owner-occupied homes in $1000's
 5. Normal Residual distribution: QQ plot with Shapiro Wilk and Anderson Darling test
 6. No Autocorrelation: ACF and PACF with Durbin Watson test
 
+# View Notebook Here: 
+https://nbviewer.jupyter.org/github/AarushGProjects/Statistical-Tests-For-Verifying-Assumptions-of-Linear-Regression/blob/main/Assumptions_Linear_Regression.ipynb
