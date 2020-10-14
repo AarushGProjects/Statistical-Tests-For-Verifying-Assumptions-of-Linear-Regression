@@ -2,7 +2,7 @@
 
 Linear Regression is a statistical technique that assesses a linear relationship between response variable and explanatory variables. To use linear regression, the data must meet the below assumptions.
 
-The dataset provides real estate valuations which are collected from Bonston, Massachusetts.
+The dataset provides real estate valuations which are collected from Boston, Massachusetts.
 
 CRIM: Per capita crime rate by town
 
@@ -26,9 +26,9 @@ TAX: Full-value property-tax rate per $10,000
 
 PTRATIO: Pupil-teacher ratio by town
 
-LSTAT % lower status of the population
+LSTAT %: lower status of the population
 
-MEDV Median value of owner-occupied homes in $1000's
+MEDV: Median value of owner-occupied homes in $1000's
 
 # Assumptions:
 
