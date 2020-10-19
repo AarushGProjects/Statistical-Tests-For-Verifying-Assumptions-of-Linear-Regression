@@ -32,7 +32,7 @@ MEDV Median value of owner-occupied homes in $1000's
 
 # Assumptions:
 
-1. Linear Relationship: Scatter plot between target and response
+1. Linear Relationship: Scatter plot between target and response variables
 2. Zero mean of residuals 
 3. Homoscedasticity: Residual plot with Goldfeld Quandt test
 4. No Multicollinearity: Heatmap with Variance inflation factor
