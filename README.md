@@ -42,7 +42,3 @@ MEDV Median value of owner-occupied homes in $1000's
 # View Notebook Here: 
 
 https://nbviewer.jupyter.org/github/AarushGProjects/Statistical-Tests-For-Verifying-Assumptions-of-Linear-Regression/blob/main/Assumptions_Regression_SQL.ipynb
-
-# Anova and t-test without library:
-
-https://nbviewer.jupyter.org/github/AarushGProjects/Statistical-Tests-For-Verifying-Assumptions-of-Linear-Regression/blob/main/Anovatest_ttest_from_scratch.ipynb
